@@ -105,7 +105,5 @@ Solution: Added logic to useState to initialize the theme based on localStorage.
 8. Links
 GitHub Repository: https://github.com/Syeda130/Tiny-Shop
 
-Live Demo: [Insert Netlify/Vercel Link Here (Optional)]
-
 Conclusion:
 TinyShop successfully demonstrates the core capabilities of a modern Single Page Application. By combining a clean UI, robust API integration, and user-centric features like Dark Mode, the project serves as a strong foundation for scalable web development.
