@@ -103,7 +103,8 @@ Solution: Added logic to useState to initialize the theme based on localStorage.
 ![alt text](public/mobile-product-details.png)
 
 8. Links
-GitHub Repository: [Insert your GitHub Link Here]
+GitHub Repository: https://github.com/Syeda130/Tiny-Shop
+
 Live Demo: [Insert Netlify/Vercel Link Here (Optional)]
 
 Conclusion:
